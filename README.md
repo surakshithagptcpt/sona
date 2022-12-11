@@ -1,0 +1,2 @@
+# sona
+practice the git 
